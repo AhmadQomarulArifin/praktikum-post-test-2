@@ -9,6 +9,8 @@
 
 ![qomarul drawio](https://github.com/user-attachments/assets/c7150f55-9fc0-489e-8d65-cb4e61755cd5)
 
+
+
 Gambar di atas adalah flowchart dari program yang saya buat
 
 # OUTPUT
@@ -16,6 +18,8 @@ Gambar di atas adalah flowchart dari program yang saya buat
 # MENU AWAL
 
 ![image](https://github.com/user-attachments/assets/b00f9c35-055d-4646-9276-fa3b6be43794)
+
+
 Gambar di atas adalah menu awal dari program jika pertama kali dijalankan. Terdapat 3 menu yang dapat dipilih
 
 Penjelasan Menu
@@ -57,6 +61,79 @@ Menu keempat yang muncul adalah masukkan no hp pasien. Disini dapat diisi no hp 
 ![image](https://github.com/user-attachments/assets/ebf71202-968c-4d3a-a105-ad7258b54f18)
 
 Lalu akan muncul pesan "pasien atas nama {nama pasien}  berhasil di tambah!"
+
+![image](https://github.com/user-attachments/assets/7a7caea6-2701-48d2-bc52-2cae7bc2851b)
+
+2. Melihat Data
+
+![image](https://github.com/user-attachments/assets/4a24b5a2-a704-4c57-a4d8-6b6384be4bea)
+
+Melihat data pasien dapat dilakukan dengan cara memilih angka 2 di menu admin.
+
+3. Mengubah Data
+
+![image](https://github.com/user-attachments/assets/403e290b-f86d-483a-9415-17cf6c08c1d2)
+
+Mengubah data seperti umur dapat dilakukan dengan cara memilih angka 3 di menu admin. 
+
+![image](https://github.com/user-attachments/assets/18539eb4-ccf9-4724-b0bd-4839835d019b)
+
+Lalu akan muncul pesan data berhasil diubah."
+
+![image](https://github.com/user-attachments/assets/a9951d48-6745-4bf5-9f65-a32cee926d52)
+
+4. Menghapus Data
+
+![image](https://github.com/user-attachments/assets/bd4e5b08-41f0-4203-9fb4-1e6f417b9f38)
+
+Menghapus data dapat dilakukan dengan cara memilih angka 4 di menu admin. Menu yang muncul adalah masukkan nomor pasien yang ingin dihapus. Disini dapat diisi nomor pasoien yang ingin dihapus dari database sebagai contoh saya akan menghapus pasien nomor 1.
+
+![image](https://github.com/user-attachments/assets/59f1c7f1-b673-4c9f-8eb0-23b934df27a9)
+
+Lalu akan muncul pesan "pasien {nama pasien} berhasil dihapus."
+
+5. Keluar
+
+![image](https://github.com/user-attachments/assets/94c656cd-5e2d-45b5-a40a-62248e6a592e)
+
+Keluar dari menu admin dapat dilakukan dengan cara memilih angka 5. Program akan keluar dari menu admin dan akan kembali ke menu awal.
+
+# MENU PASIEN
+
+![image](https://github.com/user-attachments/assets/bff847b1-634f-4c94-a86c-8afd0eefa104)
+
+Menu pembeli akan muncul jika angka 2 dipilih di menu awal.
+
+# PENJELASAN MENU
+
+1.  daftar antrian
+
+![image](https://github.com/user-attachments/assets/c9404c90-dac8-4f1b-a2f5-2945644a297f)
+
+2. lihat antrian
+
+![image](https://github.com/user-attachments/assets/fea4ed60-e9e1-4e7f-ac14-37911775b5ec)
+
+
+Menampilkan antrian.
+
+3. Keluar
+
+
+![image](https://github.com/user-attachments/assets/8ae30491-0cfc-4fbc-ad17-d54f64afe6e4)
+
+Keluar dari menu pasien dapat dilakukan dengan cara memilih angka 3. Program akan keluar dari menu pasien dan akan kembali ke menu awal.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
